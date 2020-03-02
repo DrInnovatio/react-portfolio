@@ -1,24 +1,23 @@
-import './App.css';
+//import './App.css';
 import React, { Component } from 'react';
+import "./navigation.css"
 
 class Navigation extends Component{
   render(){
   return (
-    <div>
+
       <nav>
-        <h2>React Project</h2>
+        <h2 className="logo">React Project</h2>
         <ul>
-          <li>Home</li>
-          <li>About</li>
-          <li>Contract</li>
+          <li><a href="#"/>Home</li>
+          <li><a href="#"/>About</li>
+          <li><a href="#"/>Sevices</li>
+          <li><a href="#"/>Portfolio</li>
+          <li><a href="#"/>Contract</li>
         </ul>
       </nav>
-      <div>
-        Logo
-      </div>
-    </div>
-  );
- }
+    );
+  }
 }
 
 export default Navigation;

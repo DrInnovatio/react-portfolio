@@ -9,7 +9,7 @@ class Service extends Component{
           <h2>What we offer</h2>
           <div className="row">
             <div>
-              <spnd><i class="fa fa-mobile 7x"></i></spnd>
+              <spnd><ion-icon name="phone-portrait-outline"></ion-icon></spnd>
               <h4>Resposive</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, ad.</p>
             </div>
@@ -19,7 +19,7 @@ class Service extends Component{
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, ad.</p>
             </div>
             <div>
-              <spnd><i class="fas fa-question 7x"></i></spnd>
+              <spnd><i class="fa fa-question 7x"></i></spnd>
               <h4>Resposive</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, ad.</p>
             </div>

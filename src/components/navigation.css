@@ -15,11 +15,13 @@ nav{
 
 nav ul{
   list-style: none;
+
+
 }
 
 nav ul li {
   display: inline-block;
-  margin-right: 8px;
+  margin-right: 30px;
   color: #fff;
 }
 

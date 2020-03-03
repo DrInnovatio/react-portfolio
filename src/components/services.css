@@ -19,7 +19,31 @@
   margin-bottom: 48px;
 }
 
-.services > .row{
+.services > .row  {
   display: flex;
   justify-content: space-around;
 }
+
+.services > .row span {
+  background-color: #fff;
+  width: 112px;
+  height: 112px;
+  display: inline-block;
+  border-radius: 50%;
+  color: rgb(110, 110, 156);
+  font-size: 36px;
+  line-height: 120px;
+}
+
+.services > .row h4 {
+
+  margin-bottom: .5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+  color: inherit;
+}
+
+.services > .row span i {
+  contain: none;
+} 

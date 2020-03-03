@@ -46,4 +46,5 @@
 
 .services > .row span i {
   contain: none;
+  background-color: red;
 } 

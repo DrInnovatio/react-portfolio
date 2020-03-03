@@ -7,13 +7,13 @@ header {
 header h1{
   margin: 0;
   font-size: 4rem;
-  color: black;
+  color: white;
 }
 
 header p{
   font-size: 1.75rem;
   font-weight: 700;
-  color: rgb(19, 17, 17);
+  color: white;
   margin-bottom: 30px;
 }
 
